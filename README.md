@@ -4,7 +4,7 @@
 ## 🚀 About
 
 **Portfolio Design** is a **responsive personal portfolio website** that showcases my skills, projects, and achievements with a clean and modern UI.  
-It’s perfect for presenting your work to employers, clients, or anyone visiting your GitHub.  
+
 🔗 **Live Demo:** https://azizulislamch.github.io/Portfolio-Design/
 
 ---
