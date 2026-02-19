@@ -28,8 +28,6 @@ It’s perfect for presenting your work to employers, clients, or anyone visitin
 
 ## 📸 Screenshots
 
-> *Add more images here if you like!*
-
 ### 📱 Mobile View  
 ![Mobile Screenshot](./assets/img/mobile.png)
 
