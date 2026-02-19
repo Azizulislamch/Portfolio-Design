@@ -28,11 +28,11 @@
 
 ## 📸 Screenshots
 
-### 📱 Mobile View  
-![Mobile Screenshot](./assets/img/mobile.png)
+<h3>📱 Mobile View</h3>
+<img src="./assets/img/mobile.png" width="220" alt="Mobile View">
 
-### 💻 Desktop View  
-![Desktop Screenshot](./assets/img/desktop.png)
+<h3>💻 Desktop View</h3>
+<img src="./assets/img/desktop.png" width="600" alt="Desktop View">
 
 ---
 
