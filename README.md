@@ -28,8 +28,6 @@ It’s perfect for presenting your work to employers, clients, or anyone visitin
 
 ## 📸 Screenshots
 
-> *Add more images here if you like!*
-
 ### 📱 Mobile View  
 ![Mobile Screenshot](./assets/img/mobile.png)
 
@@ -50,3 +48,14 @@ git clone https://github.com/Azizulislamch/Portfolio-Design.git
 cd Portfolio-Design
 
 # Open index.html in your browser
+
+```
+---
+
+## 📫 Contact Me
+
+If you have questions, suggestions, or opportunities, feel free to reach out:
+
+📧 Email: azizulislamch@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/azizul-islam-37b804246
